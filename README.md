@@ -1,6 +1,6 @@
 # Portfolio
 First version of a professional portfolio.
-In this initial version , I included my photograph and resume.
+In this initial version , I included my photograph and resume. The word "resume" in the header is linked to my actual resume file.
 I included links to every section of my portfolio by clicking the correspondent word in the header.
 I included an excerpt of my background in the section about me.
 The first image in the work section is bigger and it links to the github pages of my first project with the title "horiseon" that was completed at my Rice tech boot camp. This project was a refactor to improve accesibility.
